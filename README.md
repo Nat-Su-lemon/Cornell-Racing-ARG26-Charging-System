@@ -5,7 +5,7 @@
     <img
       src="https://raw.githubusercontent.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/main/assets/charger_full_cad.png"
       alt="Charger Full CAD"
-      height="300"
+      height="250"
     />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
     <img
       src="https://raw.githubusercontent.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/main/assets/lv_enclosure.png"
       alt="Low Voltage Enclosure"
-      height="300"
+      height="250"
     />
   </a>
 </p>
