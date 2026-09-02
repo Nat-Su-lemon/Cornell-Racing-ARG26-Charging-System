@@ -38,7 +38,7 @@ The primary goals for ARG26 include efficient mechanical packaging and harness r
 
 
 > ## 📄 Full Technical Report
-> This GitHub repo only serves as the project documentation landing page. For more details regarding the technical and design aspects of this system, please refer to the [Full Technical Report Document](https://docs.google.com/document/d/1nDSdyh8C3EoCIEV3Xa5Q3-b9oIaXxnFPz5djCGfBuzo/edit?tab=t.0).
+> This GitHub repo only serves as the project documentation landing page. For more details regarding the technical and design aspects of this system, please refer to the [View the PDF](https://github.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/blob/main/assets/ARG26_SP26_TechnicalReport_PTP_Charging_nbs63.pdf)
 
 
 
