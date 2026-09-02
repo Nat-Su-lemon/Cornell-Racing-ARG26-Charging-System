@@ -9,10 +9,10 @@
     />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/blob/main/assets/lv_enclosure.png">
+  <a href="https://github.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/blob/main/assets/Screenshot%202026-09-02%20012926.png">
     <img
-      src="https://raw.githubusercontent.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/main/assets/lv_enclosure.png"
-      alt="Low Voltage Enclosure"
+      src="https://github.com/Nat-Su-lemon/Cornell-Racing-ARG26-Charging-System/blob/main/assets/Screenshot%202026-09-02%20012926.png"
+      alt="Charging System IRL"
       height="250"
     />
   </a>
